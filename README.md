@@ -6,7 +6,7 @@
 ❓ About
 </h2>
 
-I coded desktop notifications with JavaScript.
+I coded sending desktop notifications with JavaScript.
 
 <h2>
 <br />
