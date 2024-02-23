@@ -14,5 +14,5 @@ I coded desktop notifications with JavaScript.
 </h2>
 
 - 🧡 &nbsp; [JavaScript](https://www.javascript.com)
-- 🧡 &nbsp; [Push.js](https://pushjs.org)
+- 💛 &nbsp; [Push.js](https://pushjs.org)
 - ➕ &nbsp; Bonus Features
